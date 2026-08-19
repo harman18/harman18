@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://harmanjotsingh.site">
-    <img src="https://harmanjotsingh.site/og.svg" width="400" alt="harmanjotsingh.site preview"/>
-  </a>
-</p>
-
 ### $ whoami
 ```yaml
 name: Harmanjot Singh
