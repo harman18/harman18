@@ -1,8 +1,7 @@
 <br>
 
 <div align="center">
-  <img src="https://harmanjotsingh.site/og.svg" width="250"/>
-  
+
   <h1><b>👋 Harmanjot Singh</b></h1>
   
   <h3>🌐 <b>Network Security Engineer</b> | 🤖 <b>Automation Tool Builder</b> | 🔍 <b>Pentesting & Debugging</b> | 🧠 <b>AI Security Researcher</b></h3>
