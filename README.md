@@ -1,76 +1,60 @@
-### $ whoami
-```yaml
-name: Harmanjot Singh
-role: Network Security & Automation Engineer
-location: India
-focus: Networks | Security | Automation | Tooling | Open Source
-site: https://harmanjotsingh.site
-```
+<br>
 
-### $ cat /etc/os-release
-```
-> Network Automation Engineer — Enterprise Networking (Oct 2024 – Present)
-> Network Tools Developer — Infrastructure Team (Aug 2023 – Oct 2024)
-> Network Automation Intern — QA & Testing (Feb 2023 – Aug 2023)
-> Front End Developer Intern — WEB Micro (Feb 2022 – Jun 2022)
-> Freelance Full-stack Developer (Jan 2021 – Dec 2022)
-```
+<h1 align="center"><b>👋 Hey! I'm Harmanjot</b></h1>
+<h3 align="center"><b>🌐 Network Security & Automation Engineer | 🤖 Tool Builder</b></h3>
 
-### $ ls projects/
-```
-[📁] Core-Network-Automation-Framework — Infra-agnostic Python/Bash tooling
-[📁] Home-Zero-Trust-System              — Self-hosted ZTNA microservice stack
-[📁] Network-Test-Tooling                — DevTest/QA network profiling tools
-[📁] Security-Pentest-Lab                — Recon, vuln-assessment sandbox
-```
+<br >
 
-### $ ls github.com/harman18/
-| Repo | Language | Visibility |
-|------------------|----------|----------------|
-| **Portfolio-NextJS**   | TypeScript | Public |
-| **ShellForge**         | TypeScript | Public |
-| **TaskMaster**         | — | Public |
-| **Portfolio_React**    | — | Public |
-| **GJCEI_site**         | HTML  | Public (fork) |
-| **harman18.github.io** | HTML  | Public |
-| **Blogs**              | HTML  | Public |
-| **portfolio_nextjs**   | TypeScript | Private |
-| **Portfolio-Website**  | — | Private |
-| **SnakeGame**          | CSS   | Private |
-| **TicTacToe**          | HTML  | Private |
-| **DSAlgos**            | Python | Private |
-| **PortfolioTemplate**  | — | Private |
-| **ReactNative**        | — | Private |
-| **TextEditor**         | — | Private |
-| **Cartoonizer**        | Python | Private |
-| **BlackJack**          | Python | Private |
-| **dsa**                | — | Public (fork) |
+<div align="center">
+  <a href="https://harmanjotsingh.site">
+    <img src="https://harmanjotsingh.site/og.svg" width="300"/>
+  </a>
+</div>
 
-### $ skill --list
-```yaml
-Languages    : Python, Bash, C/C++, JavaScript, SQL
-Network & Security : Test Automation, Core Protocols (TCP/IP, SSL/TLS, IPSEC,
-                      DTLS), Packet Analysis, Recon, Enumeration, Vuln Assessment
-Frameworks   : Next.js, React, TailwindCSS, TypeScript
-Platforms    : Git, Docker, MongoDB, Linux, AWS / GCP
-```
+<br/>
 
-### $ network --interfaces
-```
-[ eth0 ]   prod   — Core network automation & testing
-[ wlan0 ]  home   — Self-hosted zero-trust lab
-[ lo0 ]    dev    — Scripting & tooling sandbox
-```
+<p align="center"><b>🔧 I build automation tools for networks and security systems</b></p>
 
-### $ tail -n 1 ~/.bash_history
-```
-next build && node scripts/seo-gen.js && echo "shipping reliable automation"
-```
+<br/>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA2C?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nexust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2499EF?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-044498?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
 
-📡 Network-first engineer who breaks things ethically to make them safer.  
-🤖 Shipping infra-agnostic automation tooling + building self-hosted zero-trust
-infra on nights/weekends.
+<br/>
 
-[🌐 harmanjotsingh.site](https://harmanjotsingh.site) · [github.com/harman18](https://github.com/harman18) · [LinkedIn](https://www.linkedin.com/in/harmanjot--singh/)
+<p align="center"><b>🛠️ Projects</b></p>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [ShellForge](https://github.com/harman18/ShellForge) | SSH tunneling + GUI interface tool | TypeScript |
+| [TaskMaster](https://github.com/harman18/TaskMaster) | Data sharing & home automation service | Go, MQTT |
+| [Home-Zero-Trust](https://github.com/harman18/Home-Zero-Trust) | Self-hosted ZTNA microservice stack | Python, Docker |
+
+<br/>
+
+<p align="center"><b>📡 Currently working on</b></p>
+<p align="center">Core Network Automation Framework for enterprise infrastructure</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://harmanjotsingh.site">
+    <img src="https://img.shields.io/badge/Website-harmanjotsingh.site-0077B5?style=for-the-badge&logo=Websites&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/harman18?label=Followers&style=social" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harmanjot--singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+<br/>
+
+<p align="center">🌙 <i>"Breaking things ethically to make them safer."</i></p>
