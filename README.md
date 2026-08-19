@@ -1,76 +1,105 @@
-### $ whoami
-```yaml
-name: Harmanjot Singh
-role: Network Security & Automation Engineer
-location: India
-focus: Networks | Security | Automation | Tooling | Open Source
-site: https://harmanjotsingh.site
-```
+<br>
 
-### $ cat /etc/os-release
-```
-> Network Automation Engineer — Enterprise Networking (Oct 2024 – Present)
-> Network Tools Developer — Infrastructure Team (Aug 2023 – Oct 2024)
-> Network Automation Intern — QA & Testing (Feb 2023 – Aug 2023)
-> Front End Developer Intern — WEB Micro (Feb 2022 – Jun 2022)
-> Freelance Full-stack Developer (Jan 2021 – Dec 2022)
-```
+<div align="center">
+  <img src="https://harmanjotsingh.site/og.svg" width="250"/>
+  
+  <h1><b>👋 Harmanjot Singh</b></h1>
+  
+  <h3>🌐 <b>Network Security Engineer</b> | 🤖 <b>Automation Tool Builder</b> | 🔍 <b>Pentesting & Debugging</b> | 🧠 <b>AI Security Researcher</b></h3>
+  
+  <p><b>🔧 Breaking networks to fix them | 📡 Protocol fuzzing & debugging | 🤖 ML for intrusion detection</b></p>
+</div>
 
-### $ ls projects/
-```
-[📁] Core-Network-Automation-Framework — Infra-agnostic Python/Bash tooling
-[📁] Home-Zero-Trust-System              — Self-hosted ZTNA microservice stack
-[📁] Network-Test-Tooling                — DevTest/QA network profiling tools
-[📁] Security-Pentest-Lab                — Recon, vuln-assessment sandbox
-```
+<br>
 
-### $ ls github.com/harman18/
-| Repo | Language | Visibility |
-|------------------|----------|----------------|
-| **Portfolio-NextJS**   | TypeScript | Public |
-| **ShellForge**         | TypeScript | Public |
-| **TaskMaster**         | — | Public |
-| **Portfolio_React**    | — | Public |
-| **GJCEI_site**         | HTML  | Public (fork) |
-| **harman18.github.io** | HTML  | Public |
-| **Blogs**              | HTML  | Public |
-| **portfolio_nextjs**   | TypeScript | Private |
-| **Portfolio-Website**  | — | Private |
-| **SnakeGame**          | CSS   | Private |
-| **TicTacToe**          | HTML  | Private |
-| **DSAlgos**            | Python | Private |
-| **PortfolioTemplate**  | — | Private |
-| **ReactNative**        | — | Private |
-| **TextEditor**         | — | Private |
-| **Cartoonizer**        | Python | Private |
-| **BlackJack**          | Python | Private |
-| **dsa**                | — | Public (fork) |
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA2C?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-044498?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2499EF?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pentesting-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Security-FF9900?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+</div>
 
-### $ skill --list
-```yaml
-Languages    : Python, Bash, C/C++, JavaScript, SQL
-Network & Security : Test Automation, Core Protocols (TCP/IP, SSL/TLS, IPSEC,
-                      DTLS), Packet Analysis, Recon, Enumeration, Vuln Assessment
-Frameworks   : Next.js, React, TailwindCSS, TypeScript
-Platforms    : Git, Docker, MongoDB, Linux, AWS / GCP
-```
+<br>
 
-### $ network --interfaces
-```
-[ eth0 ]   prod   — Core network automation & testing
-[ wlan0 ]  home   — Self-hosted zero-trust lab
-[ lo0 ]    dev    — Scripting & tooling sandbox
-```
+<h2 align="center" style="color:#58a6ff;">🛠️ Featured Projects</h2>
 
-### $ tail -n 1 ~/.bash_history
-```
-next build && node scripts/seo-gen.js && echo "shipping reliable automation"
-```
+<table align="center" style="background-color:#0d1117; border-radius: 10px; padding: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border-collapse: collapse;">
+  <tr>
+    <th style="color:#f0f6fc; border: 1px solid #2d2d2d; padding: 10px; text-align: left;">Project</th>
+    <th style="color:#f0f6fc; border: 1px solid #2d2d2d; padding: 10px; text-align: left;">Description</th>
+    <th style="color:#f0f6fc; border: 1px solid #2d2d2d; padding: 10px; text-align: left;">Tech</th>
+  </tr>
+  <tr style="background-color:#161b22;">
+    <td style="border: 1px solid #2d2d2d; padding: 10px;"><b><a href="https://github.com/harman18/ShellForge">ShellForge</a></b></td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">SSH tunneling + GUI interface tool</td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">TypeScript, Rust</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;"><b><a href="https://github.com/harman18/TaskMaster">TaskMaster</a></b></td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">Data sharing & home automation service</td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">Go, MQTT, Docker</td>
+  </tr>
+  <tr style="background-color:#161b22;">
+    <td style="border: 1px solid #2d2d2d; padding: 10px;"><b><a href="https://github.com/harman18/Home-Zero-Trust">Home-Zero-Trust</a></b></td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">Self-hosted ZTNA microservice stack</td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">Python, Flask, Docker</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;"><b><a href="https://github.com/harman18/Security-Pentest-Lab">Pentest Lab</a></b></td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">Self-hosted recon & vuln-assessment sandbox</td>
+    <td style="border: 1px solid #2d2d2d; padding: 10px;">Linux, Burp Suite, Docker</td>
+  </tr>
+</table>
 
----
+<br>
 
-📡 Network-first engineer who breaks things ethically to make them safer.  
-🤖 Shipping infra-agnostic automation tooling + building self-hosted zero-trust
-infra on nights/weekends.
+<h2 align="center" style="color:#58a6ff;">🎯 Currently Focused On</h2>
 
-[🌐 harmanjotsingh.site](https://harmanjotsingh.site) · [github.com/harman18](https://github.com/harman18) · [LinkedIn](https://www.linkedin.com/in/harmanjot--singh/)
+<div align="center">
+  <p><b>📡 Core Network Automation Framework</b> — Enterprise infrastructure testing pipelines</p>
+  <p><b>🔍 Protocol Fuzzing Tools</b> — Debugging core networking features (TCP/IP, TLS, IPSec)</p>
+  <p><b>🧠 AI for Security</b> — Intrusion detection & anomaly analysis using ML</p>
+</div>
+
+<br>
+
+<table align="center" style="background-color:#0d1117; border-radius: 10px; padding: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <b>📁 Languages</b><br>
+      • Python, Bash, C/C++, JavaScript, SQL
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <b>🛠️ Tools</b><br>
+      • Wireshark, tcpdump, Burp Suite, Docker
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <b>☁️ Platforms</b><br>
+      • Linux, AWS/GCP, Git, MongoDB
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <a href="https://harmanjotsingh.site">
+    <img src="https://img.shields.io/badge/Website-harmanjotsingh.site-0077B5?style=for-the-badge&logo=Websites&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/harman18?label=Followers&style=social"/>
+  <a href="https://www.linkedin.com/in/harmanjot--singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=20&fontColor=58a6ff&text=Network%20Security%20|%20Pentesting%20|%20AI"/>
+</p>
+
+<p align="center"> 🌙 <b>"Breaking things ethically to make them safer."</b></p>
